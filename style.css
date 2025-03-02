@@ -1,0 +1,71 @@
+/* General Styles */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading Styles */
+h1 {
+    color: #343a40;
+    font-weight: bold;
+}
+
+p {
+    color: #6c757d;
+}
+
+/* Form Styles */
+form {
+    margin-top: 20px;
+}
+
+/* Input Field */
+input[type="text"] {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+/* Button Styles */
+button {
+    margin: 5px 0;
+    width: 100%;
+    font-size: 16px;
+}
+
+/* Button Hover Effects */
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+.btn-info:hover {
+    background-color: #138496;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+}
+
+.btn-dark:hover {
+    background-color: #23272b;
+}
